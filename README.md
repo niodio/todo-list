@@ -1,16 +1,22 @@
-# todo
+# 📋 To-Do List App
 
-A new Flutter project.
+Um simples app de lista de tarefas feito com **Flutter** usando **Provider (ChangeNotifier)** para gerenciar o estado.
 
-## Getting Started
+## 🖼 Capturas de Tela
 
-This project is a starting point for a Flutter application.
+### 📜 Lista de Tarefas
+![Lista de Tarefas](assets/screenshots/todo_list.png)
 
-A few resources to get you started if this is your first Flutter project:
+### ➕ Adicionar Tarefa
+![Adicionar Tarefa](assets/screenshots/add_task.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Tecnologias Utilizadas
+- Flutter 3.x
+- Provider (ChangeNotifier)
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙ Como Rodar o Projeto
+
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/todo-list-app.git
