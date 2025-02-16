@@ -5,10 +5,10 @@ Um simples app de lista de tarefas feito com **Flutter** usando **Provider (Chan
 ## 🖼 Capturas de Tela
 
 ### 📜 Lista de Tarefas
-![Lista de Tarefas](assets/screenshots/todo_list.png)
+![Lista de Tarefas](assets/images/todo_list.png)
 
 ### ➕ Adicionar Tarefa
-![Adicionar Tarefa](assets/screenshots/add_task.png)
+![Adicionar Tarefa](assets/images/add_task.png)
 
 ## 🚀 Tecnologias Utilizadas
 - Flutter 3.x
